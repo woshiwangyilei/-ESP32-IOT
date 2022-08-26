@@ -18,3 +18,4 @@ Name可以随便写，Board选择Espressif ESP32 Dev Module（代表板子是Esp
 修改默认文档路径如下图，找到New terminal 输入 pio settings set projects_dir D:\code\VScodecode 回车后改变
 ![image](修改默认文档路径.png)
  
+然后就可以随便选择别的程序操作了
