@@ -12,6 +12,7 @@ VScode很好安装，PlatformIO IDE在VScode的插件中搜名字安装，之后
 Name可以随便写，Board选择Espressif ESP32 Dev Module（代表板子是Espreeif公司型号ESP32的开发板）
 文档保存路径可修改可默认
 ![image](创建新项目.png)
+
 修改默认文档路径如下图，找到New terminal 输入 pio settings set projects_dir D:\code\VScodecode 回车后改变
 ![image](修改默认文档路径.png)
 
